@@ -1,0 +1,1 @@
+A simple iOS game developed using Swift which fetches a random number between 1 to 100. And there is a slider which ranges from 1 to 100. User's job is to move the slider and try to get equal or nearby to the destination number (random number).  
