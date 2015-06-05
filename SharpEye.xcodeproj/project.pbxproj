@@ -405,6 +405,7 @@
 				71EC4A991B19658000C725FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71EC4A9A1B19658000C725FB /* Build configuration list for PBXNativeTarget "SharpEyeTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				71EC4A9C1B19658000C725FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
